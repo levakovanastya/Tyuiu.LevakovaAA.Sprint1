@@ -27,7 +27,7 @@ namespace Tyuiu.LevakovaAA.Sprint0.Task7.V0
             Console.WriteLine("* и печатает результат на экране.                                         *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("* ИСХОДНЫЕ ДАНЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* 10 / (2 + 3)                                                            *");
             Console.WriteLine("***************************************************************************");
