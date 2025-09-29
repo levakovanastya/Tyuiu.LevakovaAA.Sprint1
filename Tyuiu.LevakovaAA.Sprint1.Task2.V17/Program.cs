@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.LevakovaAA.Sprint1.Task2.V17.Lib;
 
-namespace Tyuiu.LevakovaAA.Sprint1.Task0.V10
+namespace Tyuiu.LevakovaAA.Sprint1.Task2.V17
 {
     class Programm
     {
@@ -16,7 +16,7 @@ namespace Tyuiu.LevakovaAA.Sprint1.Task0.V10
             Console.Title = "Спринт #1 | Выполнила: Левакова А.А. | СМАРТб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание 2                                                               *");
             Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнила: Левакова А.А. | СМАРТб-25-1                                  *");
