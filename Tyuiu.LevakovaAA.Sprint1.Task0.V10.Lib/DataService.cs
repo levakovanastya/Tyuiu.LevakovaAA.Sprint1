@@ -11,7 +11,7 @@ namespace Tyuiu.LevakovaAA.Sprint1.Task0.V10.Lib
     {
         public double Calculate()
         {
-            return (3/6 - 4) * 3;
+            return (3.0/6 - 4) * 3;
         }
     }
 }
