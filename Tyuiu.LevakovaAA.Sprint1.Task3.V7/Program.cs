@@ -30,16 +30,16 @@ namespace Tyuiu.LevakovaAA.Sprint1.Task3.V7
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            int x;
+            int verst;
 
-            Console.WriteLine("Введите значение x:");
-            x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите значение verst:");
+            verst = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.VerstsToKilometers(x));
+            Console.WriteLine(ds.VerstsToKilometers(verst));
             Console.ReadLine();
         }
     }
