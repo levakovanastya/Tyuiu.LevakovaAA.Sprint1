@@ -24,7 +24,7 @@ namespace Tyuiu.LevakovaAA.Sprint1.Task4.V28
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходнные данные,*");
-            Console.WriteLine("* вычисляет результат по формуле и печатает его на экране.                *");
+            Console.WriteLine("* вычисляет результат по формуле и печатает его на экране                *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
